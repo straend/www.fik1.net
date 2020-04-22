@@ -1,0 +1,7 @@
+baseURL = "https://straend.github.io"
+languageCode = "en-us"
+title = "fik1"
+theme = "learn"
+
+[params]
+  themeVariant = "fik1" 
